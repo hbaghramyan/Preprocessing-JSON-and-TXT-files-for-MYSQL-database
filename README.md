@@ -5,3 +5,9 @@ I used *json* package to import json files into python as native dictionaries. T
 ### Preprocessing the TXT (tabulated) file:
 
 I did it using pandas.read_csv.
+
+##### QUESTION (a): Number of patients in Benchling with information for genes to up/down regulate.
+##### Patient "pat012" has no data for genes to up regulate.
+##### ANSWER (a): Only 9 patients have data for genes to up/down regulate.
+
+

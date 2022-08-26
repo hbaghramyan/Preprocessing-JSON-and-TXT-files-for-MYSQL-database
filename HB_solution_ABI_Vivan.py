@@ -76,8 +76,8 @@ patients_db = mysql.connector.connect(
 
 mycursor = patients_db.cursor()
 
-mycursor.execute("DROP DATABASE patients_db")
-mycursor.execute("CREATE DATABASE patients_db")
+# mycursor.execute("DROP DATABASE patients_db")
+# mycursor.execute("CREATE DATABASE patients_db")
 
 # Create SQLAlchemy engine to connect to MySQL Database
 engine = create_engine("mysql+pymysql://{user}:{pw}@{host}/{db}".format(host=hostname, db=dbname, user=uname, pw=pwd))
@@ -110,3 +110,22 @@ print(f"It seems the only {np.ravel(nonNaNpatients)} has rows of data with no mi
 
 # Inserting cnv as a table into patients_db.
 cnv.to_sql("cnv", engine, index=True, if_exists='replace');
+
+# connecting to patients_db
+cn = mysql.connector.connect(user = uname, password = pwd, host = hostname, database = 'patients_db')
+cursor = cn.cursor()
+
+cursor.execute("Show tables")
+tables = cursor.fetchall()
+
+print("\n QUESTION (a): Number of patients in Benchling with information for genes to up/down regulate.")
+
+count = 0
+for table in tables[1:]:
+    for colname in [["genes to up regulate", "GUR"], ["genes to down regulate", "GDR"]]:
+        cursor.execute(f"select {colname[1]} from {table[0]} WHERE {colname[1]} IS NOT NULL")
+        rows = cursor.fetchall()
+        if len(rows) == 0:
+            count += 1
+            print(f'Patient "{table[0]}" has no data for {colname[0]}.')
+print(f'ANSWER (a): Only {len(tables[1:]) - count} patients have data for genes to up/down regulate.')
