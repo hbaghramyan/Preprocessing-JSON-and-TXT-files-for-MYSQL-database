@@ -1,0 +1,5050 @@
+{
+  "entries": [
+        {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_Ynv6NsAv", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "deisy", 
+          "id": "ent_vRpaIaoa", 
+          "name": "Deisy"
+        }
+      ], 
+      "createdAt": "2022-03-10T20:01:24.774455+00:00", 
+      "creator": {
+        "handle": "deisy", 
+        "id": "ent_vRpaIaoa", 
+        "name": "Deisy"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2022-03-10", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The variant selection was performed by Nahuel Villegas and took two working days. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following link contains the variant analysis results: ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "--> Add the files containing the data extracted and analysed from the WES. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar:", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_x2NUY5lM", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_x2NUY5lM-hs-pten/edit"
+                        }, 
+                        "text": "Hs-PTEN"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_q1fv4yAi", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_q1fv4yAi-dm-pten/edit"
+                        }, 
+                        "text": "Dm-Pten"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_kNQQCx9C", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_kNQQCx9C-hs-kras/edit"
+                        }, 
+                        "text": "Hs-KRAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_pUGRnjbb", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_pUGRnjbb-dm-ras85d/edit"
+                        }, 
+                        "text": "Dm-Ras85D"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "(Fill this only in the case that some genes were initially planned to be modeled but discarded. Write the reason why on the Comments column)", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_q5b2b9Ni", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_q5b2b9Ni-hs-egfr/edit"
+                        }, 
+                        "text": "Hs-EGFR"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_2qCpptXq", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_2qCpptXq-dm-egfr/edit"
+                        }, 
+                        "text": "Dm-Egfr"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP22000134", 
+      "entryTemplateId": "tmpl_Wz5S7c7f", 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "GI", 
+          "isMulti": true, 
+          "textValue": "GI", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_szWPMcfq"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-Pten", 
+          "isMulti": true, 
+          "textValue": "Dm-Pten", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_q1fv4yAi"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-KRAS, Hs-EGFR", 
+          "isMulti": true, 
+          "textValue": "Hs-KRAS, Hs-EGFR", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_kNQQCx9C", 
+            "bfi_q5b2b9Ni"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "dropdown", 
+          "value": []
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat046", 
+          "isMulti": false, 
+          "textValue": "Pat046", 
+          "type": "entity_link", 
+          "value": "bfi_woefFRJX"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_Ynv6NsAv", 
+      "modifiedAt": "2022-08-09T09:44:32.622069+00:00", 
+      "name": "Pat046.av1_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_Ynv6NsAv-pat046-av1_2-variant-selection/edit"
+    },
+        {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_sFhEComD", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "cdemiguel", 
+          "id": "ent_pBfnaIsg", 
+          "name": "Cristina de Miguel"
+        }
+      ], 
+      "createdAt": "2020-11-23T15:35:55.315717+00:00", 
+      "creator": {
+        "handle": "cdemiguel", 
+        "id": "ent_pBfnaIsg", 
+        "name": "Cristina de Miguel"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2020-09-06", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_vRpaIaoa", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/deisy/"
+                }, 
+                {
+                  "id": "ent_pBfnaIsg", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/cdemiguel/"
+                }, 
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The variant selection was performed by Deisy , Cristina de Miguel, Nahuel Villegas . The results are described in the attached excel file. ", 
+              "type": "text"
+            }, 
+            {
+              "externalFileId": "efl_Gm0gDfyt", 
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "external_file"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The following genes were selected by Nahuel Villegas .", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "--> Link to be added", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar: ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_kNQQCx9C", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_kNQQCx9C-hs-kras/edit"
+                        }, 
+                        "text": "Hs-KRAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_pUGRnjbb", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_pUGRnjbb-dm-ras85d/edit"
+                        }, 
+                        "text": "Dm-Ras85D"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_9tvOArAa", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_9tvOArAa-hs-gnas/edit"
+                        }, 
+                        "text": "Hs-GNAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_GgnsJjxC", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_GgnsJjxC-dm-galphas/edit"
+                        }, 
+                        "text": "Dm-galphas"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_rBaS1IU3", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_rBaS1IU3-hs-tsc1/edit"
+                        }, 
+                        "text": "Hs-TSC1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_QbwiVlAD", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_QbwiVlAD-dm-tsc1/edit"
+                        }, 
+                        "text": "Dm-Tsc1"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_vNVkDlyw", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_vNVkDlyw-hs-ralbp1/edit"
+                        }, 
+                        "text": "Hs-RALBP1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_RU5Y6f0r", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_RU5Y6f0r-dm-rlip/edit"
+                        }, 
+                        "text": "Dm-Rlip"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_qnOJT4Oy", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_qnOJT4Oy-hs-piga/edit"
+                        }, 
+                        "text": "Hs-PIGA"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_Nr37Kx13", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Nr37Kx13-dm-pig-a/edit"
+                        }, 
+                        "text": "Dm-PIG-A"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_ytkjAkoB", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_ytkjAkoB-hs-apob/edit"
+                        }, 
+                        "text": "Hs-APOB"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_cvPU3V55", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_cvPU3V55-dm-apolpp/edit"
+                        }, 
+                        "text": "Dm-Apolpp"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_oETGVu0B", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_oETGVu0B-hs-trip11/edit"
+                        }, 
+                        "text": "Hs-TRIP11"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_ENUMmHRU", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_ENUMmHRU-dm-gmap/edit"
+                        }, 
+                        "text": "Dm-Gmap"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_W1219fEP", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_W1219fEP-hs-smad2/edit"
+                        }, 
+                        "text": "Hs-SMAD2"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_MJnIcLJL", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_MJnIcLJL-dm-smox/edit"
+                        }, 
+                        "text": "Dm-Smox"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP20000055", 
+      "entryTemplateId": null, 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "GI", 
+          "isMulti": true, 
+          "textValue": "GI", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_szWPMcfq"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-Smox, Dm-Gmap, Dm-Apolpp, Dm-PIG-A, Dm-Rlip, Dm-Tsc1", 
+          "isMulti": true, 
+          "textValue": "Dm-Smox, Dm-Gmap, Dm-Apolpp, Dm-PIG-A, Dm-Rlip, Dm-Tsc1", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_MJnIcLJL", 
+            "bfi_ENUMmHRU", 
+            "bfi_cvPU3V55", 
+            "bfi_Nr37Kx13", 
+            "bfi_RU5Y6f0r", 
+            "bfi_QbwiVlAD"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-SMAD2, Hs-TRIP11, Hs-APOB, Hs-PIGA, Hs-RALBP1, Hs-TSC1", 
+          "isMulti": true, 
+          "textValue": "Hs-SMAD2, Hs-TRIP11, Hs-APOB, Hs-PIGA, Hs-RALBP1, Hs-TSC1", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_W1219fEP", 
+            "bfi_oETGVu0B", 
+            "bfi_ytkjAkoB", 
+            "bfi_qnOJT4Oy", 
+            "bfi_vNVkDlyw", 
+            "bfi_rBaS1IU3"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": "Manual", 
+          "isMulti": true, 
+          "textValue": "Manual", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_UmfPSYgQ"
+          ]
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat002", 
+          "isMulti": false, 
+          "textValue": "Pat002", 
+          "type": "entity_link", 
+          "value": "bfi_Tl3XdRo1"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_sFhEComD", 
+      "modifiedAt": "2022-08-01T10:37:37.951374+00:00", 
+      "name": "Pat002_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_sFhEComD-pat002_2-variant-selection/edit"
+    }, 
+        {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_XLPLqzl7", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "cdemiguel", 
+          "id": "ent_pBfnaIsg", 
+          "name": "Cristina de Miguel"
+        }
+      ], 
+      "createdAt": "2021-01-04T11:47:15.407222+00:00", 
+      "creator": {
+        "handle": "cdemiguel", 
+        "id": "ent_pBfnaIsg", 
+        "name": "Cristina de Miguel"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2021-01-04", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The variant selection was performed by the external company Foundation Medicine One (https://www.foundationmedicine.com/test/foundationone-cdx), using a panel and took Nahuel Villegas 2 working days. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": " Selected genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar:", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene ", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_aG7VunZA", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_aG7VunZA-hs-pik3ca/edit"
+                        }, 
+                        "text": "Hs-PIK3CA"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_q1fv4yAi", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_q1fv4yAi-dm-pten/edit"
+                        }, 
+                        "text": "Dm-Pten"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_Vwi2Khmc", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Vwi2Khmc-hs-tp53/edit"
+                        }, 
+                        "text": "Hs-TP53"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_Mk3G575p", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Mk3G575p-dm-p53/edit"
+                        }, 
+                        "text": "Dm-p53"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_onRiIeQM", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_onRiIeQM-hs-apc/edit"
+                        }, 
+                        "text": "Hs-APC"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_gFVAvhaN", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_gFVAvhaN-dm-apc/edit"
+                        }, 
+                        "text": "Dm-Apc"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_wFjfUtvC", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_wFjfUtvC-hs-arid1a/edit"
+                        }, 
+                        "text": "Hs-ARID1A"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_Ou3YS4kG", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Ou3YS4kG-dm-osa/edit"
+                        }, 
+                        "text": "Dm-osa"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_kNQQCx9C", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_kNQQCx9C-hs-kras/edit"
+                        }, 
+                        "text": "Hs-KRAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_pUGRnjbb", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_pUGRnjbb-dm-ras85d/edit"
+                        }, 
+                        "text": "Dm-Ras85D"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_3Lr2klaJ", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_3Lr2klaJ-hs-myc/edit"
+                        }, 
+                        "text": "Hs-MYC"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_L800fvAi", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_L800fvAi-dm-myc/edit"
+                        }, 
+                        "text": "Dm-Myc"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP21000003", 
+      "entryTemplateId": "tmpl_Wz5S7c7f", 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "GI", 
+          "isMulti": true, 
+          "textValue": "GI", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_szWPMcfq"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-Pten, Dm-p53, Dm-Apc, Dm-osa, Dm-Ras85D, Dm-Myc, Dm-Calr", 
+          "isMulti": true, 
+          "textValue": "Dm-Pten, Dm-p53, Dm-Apc, Dm-osa, Dm-Ras85D, Dm-Myc, Dm-Calr", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_q1fv4yAi", 
+            "bfi_Mk3G575p", 
+            "bfi_gFVAvhaN", 
+            "bfi_Ou3YS4kG", 
+            "bfi_pUGRnjbb", 
+            "bfi_L800fvAi", 
+            "bfi_8GDUV44v"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-PIK3CA, Hs-TP53, Hs-APC, Hs-ARID1A, Hs-KRAS, Hs-MYC, Hs-CALR", 
+          "isMulti": true, 
+          "textValue": "Hs-PIK3CA, Hs-TP53, Hs-APC, Hs-ARID1A, Hs-KRAS, Hs-MYC, Hs-CALR", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_aG7VunZA", 
+            "bfi_Vwi2Khmc", 
+            "bfi_onRiIeQM", 
+            "bfi_wFjfUtvC", 
+            "bfi_kNQQCx9C", 
+            "bfi_3Lr2klaJ", 
+            "bfi_mV7eJw61"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "dropdown", 
+          "value": []
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat009", 
+          "isMulti": false, 
+          "textValue": "Pat009", 
+          "type": "entity_link", 
+          "value": "bfi_AZ4tVrzL"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_XLPLqzl7", 
+      "modifiedAt": "2022-07-29T15:02:00.634615+00:00", 
+      "name": "Pat009.primary tumour_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_XLPLqzl7-pat009-primary-tumour_2-variant-selection/edit"
+    }, 
+        {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_AbWedF99", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "cdemiguel", 
+          "id": "ent_pBfnaIsg", 
+          "name": "Cristina de Miguel"
+        }
+      ], 
+      "createdAt": "2020-11-25T17:12:42.904509+00:00", 
+      "creator": {
+        "handle": "cdemiguel", 
+        "id": "ent_pBfnaIsg", 
+        "name": "Cristina de Miguel"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2020-11-25", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }, 
+                {
+                  "id": "ent_pBfnaIsg", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/cdemiguel/"
+                }, 
+                {
+                  "id": "ent_vRpaIaoa", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/deisy/"
+                }
+              ], 
+              "text": "The variant selection was performed by Nahuel Villegas, Cristina de Miguel  and Deisy and took 14 working days. It was performed buying the portal build by Edoardo v1 and manually. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": " Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The following genes were selected by Nahuel Villegas .", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "--> Link to be added", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar:", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_x2NUY5lM", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_x2NUY5lM-hs-pten/edit"
+                        }, 
+                        "text": "Hs-PTEN"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_q1fv4yAi", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_q1fv4yAi-dm-pten/edit"
+                        }, 
+                        "text": "Dm-Pten"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "We use Pten to model @PIK3CA"
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_Vwi2Khmc", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Vwi2Khmc-hs-tp53/edit"
+                        }, 
+                        "text": "Hs-TP53"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_Mk3G575p", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Mk3G575p-dm-p53/edit"
+                        }, 
+                        "text": "Dm-p53"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_kGurVhap", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_kGurVhap-hs-pbrm1/edit"
+                        }, 
+                        "text": "Hs-PBRM1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_hWckv3jm", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_hWckv3jm-dm-polybromo/edit"
+                        }, 
+                        "text": "Dm-polybromo"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_trEOzgXl", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_trEOzgXl-hs-daxx/edit"
+                        }, 
+                        "text": "Hs-DAXX"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_KkOskbrM", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_KkOskbrM-dm-daxx/edit"
+                        }, 
+                        "text": "Dm-Daxx"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "bfi_q1fv4yAi", 
+                  "type": "custom_entity", 
+                  "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_q1fv4yAi-dm-pten/edit"
+                }, 
+                {
+                  "id": "bfi_0MVLg5YB", 
+                  "type": "custom_entity", 
+                  "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_0MVLg5YB-dm-pi3k92e/edit"
+                }, 
+                {
+                  "id": "bfi_aG7VunZA", 
+                  "type": "custom_entity", 
+                  "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_aG7VunZA-hs-pik3ca/edit"
+                }
+              ], 
+              "text": "We will use Dm-Pten  to model Dm-Pi3K92E  (Hs-PIK3CA ).", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_tIavy3Ez", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_tIavy3Ez-hs-hras/edit"
+                        }, 
+                        "text": "Hs-HRAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_pUGRnjbb", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_pUGRnjbb-dm-ras85d/edit"
+                        }, 
+                        "text": "Dm-Ras85D"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_fhnjZWnw", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_fhnjZWnw-hs-akt1s1/edit"
+                        }, 
+                        "text": "Hs-AKT1S1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_Dh6dgHwm", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Dh6dgHwm-dm-pras40/edit"
+                        }, 
+                        "text": "Dm-PRAS40"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_mV7eJw61", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_mV7eJw61-hs-calr/edit"
+                        }, 
+                        "text": "Hs-CALR"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_8GDUV44v", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_8GDUV44v-dm-calr/edit"
+                        }, 
+                        "text": "Dm-Calr"
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_9tvOArAa", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_9tvOArAa-hs-gnas/edit"
+                        }, 
+                        "text": "Hs-GNAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_GgnsJjxC", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_GgnsJjxC-dm-galphas/edit"
+                        }, 
+                        "text": "Dm-galphas"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_WxMsydPQ", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_WxMsydPQ-hs-hif1a/edit"
+                        }, 
+                        "text": "Hs-HIF1A"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_058eSDSK", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_058eSDSK-dm-yki/edit"
+                        }, 
+                        "text": "Dm-yki"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_LRFVHHxh", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_LRFVHHxh-hs-yap1/edit"
+                        }, 
+                        "text": "Hs-Yap1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_vMrllKHg", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_vMrllKHg-dm-sima/edit"
+                        }, 
+                        "text": "Dm-sima"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP20000063", 
+      "entryTemplateId": null, 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "Head and Neck", 
+          "isMulti": true, 
+          "textValue": "Head and Neck", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_qsI5y2xz"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-Pten, Dm-Pi3K92E, Dm-Daxx, Dm-PRAS40, Dm-Ras85D, Dm-polybromo, Dm-p53", 
+          "isMulti": true, 
+          "textValue": "Dm-Pten, Dm-Pi3K92E, Dm-Daxx, Dm-PRAS40, Dm-Ras85D, Dm-polybromo, Dm-p53", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_q1fv4yAi", 
+            "bfi_0MVLg5YB", 
+            "bfi_KkOskbrM", 
+            "bfi_Dh6dgHwm", 
+            "bfi_pUGRnjbb", 
+            "bfi_hWckv3jm", 
+            "bfi_Mk3G575p"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-PIK3CA, Hs-DAXX, Hs-AKT1S1, Hs-HRAS, Hs-PBRM1, Hs-TP53, Hs-PTEN", 
+          "isMulti": true, 
+          "textValue": "Hs-PIK3CA, Hs-DAXX, Hs-AKT1S1, Hs-HRAS, Hs-PBRM1, Hs-TP53, Hs-PTEN", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_aG7VunZA", 
+            "bfi_trEOzgXl", 
+            "bfi_fhnjZWnw", 
+            "bfi_tIavy3Ez", 
+            "bfi_kGurVhap", 
+            "bfi_Vwi2Khmc", 
+            "bfi_x2NUY5lM"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": "v0.1", 
+          "isMulti": true, 
+          "textValue": "v0.1", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_4dydlXlE"
+          ]
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat004", 
+          "isMulti": false, 
+          "textValue": "Pat004", 
+          "type": "entity_link", 
+          "value": "bfi_E7CuAlrU"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_AbWedF99", 
+      "modifiedAt": "2022-07-29T14:16:04.429830+00:00", 
+      "name": "Pat004_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_AbWedF99-pat004_2-variant-selection/edit"
+    }, 
+       {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_yXBHtvI9", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "cdemiguel", 
+          "id": "ent_pBfnaIsg", 
+          "name": "Cristina de Miguel"
+        }
+      ], 
+      "createdAt": "2022-06-30T14:12:46.461355+00:00", 
+      "creator": {
+        "handle": "cdemiguel", 
+        "id": "ent_pBfnaIsg", 
+        "name": "Cristina de Miguel"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2022-06-30", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The variant selection was performed by Nahuel Villegas and took two working days. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": " ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following link contains the variant analysis results: ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "--> Add the files containing the data extracted and analysed from the WES. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar:", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_JHNsgGrF", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_JHNsgGrF-hs-brca2/edit"
+                        }, 
+                        "text": "Hs-BRCA2"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_ffY2C0Sm", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_ffY2C0Sm-dm-brca2/edit"
+                        }, 
+                        "text": "Dm-Brca2"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "LOF mutation"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_dj9FkBTS", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_dj9FkBTS-hs-ccnd1/edit"
+                        }, 
+                        "text": "Hs-CCND1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_bk9VKTtc", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_bk9VKTtc-dm-cycd/edit"
+                        }, 
+                        "text": "Dm-CycD"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "CNVs, dulpl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_yicmnBkW", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_yicmnBkW-hs-mycn/edit"
+                        }, 
+                        "text": "Hs-MYCN"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_3Lr2klaJ", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_3Lr2klaJ-hs-myc/edit"
+                        }, 
+                        "text": "Hs-MYC"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "CNVs, dulpl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_Ht9lV7e9", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Ht9lV7e9-hs-flt4/edit"
+                        }, 
+                        "text": "Hs-FLT4"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_YE8luDTH", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_YE8luDTH-dm-pvr/edit"
+                        }, 
+                        "text": "Dm-Pvr"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "CNVs, dulpl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_KBlq3QI8", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_KBlq3QI8-hs-fgfr3/edit"
+                        }, 
+                        "text": "Hs-FGFR3"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_wtTYMRjr", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_wtTYMRjr-dm-htl/edit"
+                        }, 
+                        "text": "Dm-htl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "CNVs, dulpl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "Could also be modelled with bnl"
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_i1NbYwNj", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_i1NbYwNj-hs-fgf3/edit"
+                        }, 
+                        "text": "Hs-FGF3"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_wtTYMRjr", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_wtTYMRjr-dm-htl/edit"
+                        }, 
+                        "text": "Dm-htl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "CNVs, dulpl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "Could also be modelled with bnl"
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_7bSZqLM7", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_7bSZqLM7-hs-fgf4/edit"
+                        }, 
+                        "text": "Hs-FGF4"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_wtTYMRjr", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_wtTYMRjr-dm-htl/edit"
+                        }, 
+                        "text": "Dm-htl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "CNVs, dulpl"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "Could also be modelled with bnl"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "(Fill this only in the case that some genes were initially planned to be modeled but discarded. Write the reason why on the Comments column)", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "@Hs-GENE"
+                      }, 
+                      {
+                        "text": "@Dm-GENE"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP22000359", 
+      "entryTemplateId": "tmpl_Wz5S7c7f", 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "GI", 
+          "isMulti": true, 
+          "textValue": "GI", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_szWPMcfq"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "Hs modeled genes": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "Portal version used": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "dropdown", 
+          "value": []
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat057", 
+          "isMulti": false, 
+          "textValue": "Pat057", 
+          "type": "entity_link", 
+          "value": "bfi_C592flm2"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_yXBHtvI9", 
+      "modifiedAt": "2022-07-29T11:46:49.688478+00:00", 
+      "name": "Pat057_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_yXBHtvI9-pat057_2-variant-selection/edit"
+    }, 
+       {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_Xx0HnxOa", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "deisy", 
+          "id": "ent_vRpaIaoa", 
+          "name": "Deisy"
+        }
+      ], 
+      "createdAt": "2022-06-12T18:43:49.316039+00:00", 
+      "creator": {
+        "handle": "deisy", 
+        "id": "ent_vRpaIaoa", 
+        "name": "Deisy"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2022-06-12", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The variant selection was performed by Nahuel Villegas and took two working days. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": " ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following link contains the variant analysis results: ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "--> Add the files containing the data extracted and analysed from the WES. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar:", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_kNQQCx9C", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_kNQQCx9C-hs-kras/edit"
+                        }, 
+                        "text": "Hs-KRAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_pUGRnjbb", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_pUGRnjbb-dm-ras85d/edit"
+                        }, 
+                        "text": "Dm-Ras85D"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_X6IDXT5p", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_X6IDXT5p-hs-smad4/edit"
+                        }, 
+                        "text": "Hs-SMAD4"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_WrvezXPi", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_WrvezXPi-dm-med/edit"
+                        }, 
+                        "text": "Dm-Med"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_8ik21FPl", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_8ik21FPl-hs-lrp1b/edit"
+                        }, 
+                        "text": "Hs- LRP1B"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_WiSS35DJ", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_WiSS35DJ-dm-lrp1/edit"
+                        }, 
+                        "text": "Dm-LRP1"
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "(Fill this only in the case that some genes were initially planned to be modeled but discarded. Write the reason why on the Comments column)", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "@Hs-GENE"
+                      }, 
+                      {
+                        "text": "@Dm-GENE"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP22000299", 
+      "entryTemplateId": "tmpl_Wz5S7c7f", 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "Pancreatic", 
+          "isMulti": true, 
+          "textValue": "Pancreatic", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_xYcObF45"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-Ras85D, Dm-Med, Dm-LRP1", 
+          "isMulti": true, 
+          "textValue": "Dm-Ras85D, Dm-Med, Dm-LRP1", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_pUGRnjbb", 
+            "bfi_WrvezXPi", 
+            "bfi_WiSS35DJ"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-SMAD4, Hs- LRP1B, Hs-HRAS", 
+          "isMulti": true, 
+          "textValue": "Hs-SMAD4, Hs- LRP1B, Hs-HRAS", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_X6IDXT5p", 
+            "bfi_8ik21FPl", 
+            "bfi_tIavy3Ez"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "dropdown", 
+          "value": []
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat044", 
+          "isMulti": false, 
+          "textValue": "Pat044", 
+          "type": "entity_link", 
+          "value": "bfi_8YtLPzhi"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_Xx0HnxOa", 
+      "modifiedAt": "2022-07-29T11:46:20.950022+00:00", 
+      "name": "Pat044.primary tumour_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_Xx0HnxOa-pat044-primary-tumour_2-variant-selection/edit"
+    }, 
+        {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_tnnr9p1b", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "deisy", 
+          "id": "ent_vRpaIaoa", 
+          "name": "Deisy"
+        }
+      ], 
+      "createdAt": "2022-03-18T17:25:18.286118+00:00", 
+      "creator": {
+        "handle": "deisy", 
+        "id": "ent_vRpaIaoa", 
+        "name": "Deisy"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2022-03-18", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_vRpaIaoa", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/deisy/"
+                }
+              ], 
+              "text": "The variant selection was performed by Deisy and took two working days. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": " ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following link contains the variant analysis results: ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "--> Add the files containing the data extracted and analysed from the WES. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar:", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_kNQQCx9C", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_kNQQCx9C-hs-kras/edit"
+                        }, 
+                        "text": "Hs-KRAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_pUGRnjbb", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_pUGRnjbb-dm-ras85d/edit"
+                        }, 
+                        "text": "Dm-Ras85D"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_Vwi2Khmc", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Vwi2Khmc-hs-tp53/edit"
+                        }, 
+                        "text": "Hs-TP53"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_Mk3G575p", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Mk3G575p-dm-p53/edit"
+                        }, 
+                        "text": "Dm-p53"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_Wkxc26uc", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Wkxc26uc-hs-stk11/edit"
+                        }, 
+                        "text": "Hs-STK11"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_HkTydl0u", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_HkTydl0u-dm-lkb1/edit"
+                        }, 
+                        "text": "Dm-Lkb1"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_sz2zaQa7", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_sz2zaQa7-hs-foxp1/edit"
+                        }, 
+                        "text": "Hs-FOXP1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_Quypc3Xk", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Quypc3Xk-dm-foxp/edit"
+                        }, 
+                        "text": "Dm-FoxP"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "(Fill this only in the case that some genes were initially planned to be modeled but discarded. Write the reason why on the Comments column)", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "@Hs-GENE"
+                      }, 
+                      {
+                        "text": "@Dm-GENE"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP22000156", 
+      "entryTemplateId": "tmpl_Wz5S7c7f", 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "GI", 
+          "isMulti": true, 
+          "textValue": "GI", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_szWPMcfq"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-Ras85D, Dm-FoxP, Dm-Lkb1, Dm-p53", 
+          "isMulti": true, 
+          "textValue": "Dm-Ras85D, Dm-FoxP, Dm-Lkb1, Dm-p53", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_pUGRnjbb", 
+            "bfi_Quypc3Xk", 
+            "bfi_HkTydl0u", 
+            "bfi_Mk3G575p"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-KRAS, Hs-FOXP1, Hs-TP53, Hs-STK11", 
+          "isMulti": true, 
+          "textValue": "Hs-KRAS, Hs-FOXP1, Hs-TP53, Hs-STK11", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_kNQQCx9C", 
+            "bfi_sz2zaQa7", 
+            "bfi_Vwi2Khmc", 
+            "bfi_Wkxc26uc"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "dropdown", 
+          "value": []
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP, Innovate UK grant 2020", 
+          "isMulti": true, 
+          "textValue": "Patient PDP, Innovate UK grant 2020", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR", 
+            "sfso_BXceOW2A"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat032", 
+          "isMulti": false, 
+          "textValue": "Pat032", 
+          "type": "entity_link", 
+          "value": "bfi_BlzICXY3"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_tnnr9p1b", 
+      "modifiedAt": "2022-07-29T11:45:58.717976+00:00", 
+      "name": "Pat032.Bone metastasis.av2_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_tnnr9p1b-pat032-bone-metastasis-av2_2-variant-selection/edit"
+    }, 
+     {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_oL9uE1WT", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "cdemiguel", 
+          "id": "ent_pBfnaIsg", 
+          "name": "Cristina de Miguel"
+        }
+      ], 
+      "createdAt": "2021-06-09T15:09:32.068958+00:00", 
+      "creator": {
+        "handle": "cdemiguel", 
+        "id": "ent_pBfnaIsg", 
+        "name": "Cristina de Miguel"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2021-06-09", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The variant selection was performed by Nahuel Villegas  and took xx working days. It was performed buying the portal build by Edoardo v1 and manually. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": " ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following link contains the variant analysis results: ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Add the link.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar:", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_fyIEZo7g", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_fyIEZo7g-hs-nf2/edit"
+                        }, 
+                        "text": "Hs-NF2"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_XOnfnK99", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_XOnfnK99-dm-mer/edit"
+                        }, 
+                        "text": "Dm-Mer"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_hBUhHNJ6", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_hBUhHNJ6-hs-atrx/edit"
+                        }, 
+                        "text": "Hs-ATRX"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_63eskpAX", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_63eskpAX-dm-xnp/edit"
+                        }, 
+                        "text": "Dm-XNP"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP21000150", 
+      "entryTemplateId": "tmpl_Wz5S7c7f", 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "Head and Neck", 
+          "isMulti": true, 
+          "textValue": "Head and Neck", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_qsI5y2xz"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-Mer, Dm-XNP", 
+          "isMulti": true, 
+          "textValue": "Dm-Mer, Dm-XNP", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_XOnfnK99", 
+            "bfi_63eskpAX"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-NF2, Hs-ATRX", 
+          "isMulti": true, 
+          "textValue": "Hs-NF2, Hs-ATRX", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_fyIEZo7g", 
+            "bfi_hBUhHNJ6"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "dropdown", 
+          "value": []
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat012", 
+          "isMulti": false, 
+          "textValue": "Pat012", 
+          "type": "entity_link", 
+          "value": "bfi_8FamLd9W"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_oL9uE1WT", 
+      "modifiedAt": "2022-07-29T11:45:36.124866+00:00", 
+      "name": "Pat012_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_oL9uE1WT-pat012_2-variant-selection/edit"
+    }, 
+       {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_uKR9AYsq", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "cdemiguel", 
+          "id": "ent_pBfnaIsg", 
+          "name": "Cristina de Miguel"
+        }
+      ], 
+      "createdAt": "2020-12-16T10:45:50.128826+00:00", 
+      "creator": {
+        "handle": "cdemiguel", 
+        "id": "ent_pBfnaIsg", 
+        "name": "Cristina de Miguel"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2020-12-14", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_vRpaIaoa", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/deisy/"
+                }, 
+                {
+                  "id": "ent_pBfnaIsg", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/cdemiguel/"
+                }, 
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The variant selection was performed by Deisy , Cristina de Miguel, Nahuel Villegas.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "externalFileId": "efl_MgzV4bXB", 
+              "indentation": 0, 
+              "links": [], 
+              "text": "Change the file with the definitive one", 
+              "type": "external_file"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The following genes were selected by Nahuel Villegas .", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_i1dqVU4w", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_i1dqVU4w-hs-kmt2d/edit"
+                        }, 
+                        "text": "Hs-KMT2D"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_YdtwXkXr", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_YdtwXkXr-dm-trr/edit"
+                        }, 
+                        "text": "Dm-trr"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_tlpp6XRr", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_tlpp6XRr-hs-smarca4/edit"
+                        }, 
+                        "text": "Hs-SMARCA4"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_y8NwbZlS", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_y8NwbZlS-dm-brm/edit"
+                        }, 
+                        "text": "Dm-brm"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_5FNfUHWY", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_5FNfUHWY-hs-kdm6a/edit"
+                        }, 
+                        "text": "Hs-KDM6A"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_u6uWRnhf", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_u6uWRnhf-dm-utx/edit"
+                        }, 
+                        "text": "Dm-Utx"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_x2NUY5lM", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_x2NUY5lM-hs-pten/edit"
+                        }, 
+                        "text": "Hs-PTEN"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_q1fv4yAi", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_q1fv4yAi-dm-pten/edit"
+                        }, 
+                        "text": "Dm-Pten"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_SAsQdONV", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_SAsQdONV-hs-stag1/edit"
+                        }, 
+                        "text": "Hs-STAG1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_WilxsskF", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_WilxsskF-dm-sa/edit"
+                        }, 
+                        "text": "Dm-SA"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_tNK9KpE6", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_tNK9KpE6-hs-myo1c/edit"
+                        }, 
+                        "text": "Hs-MYO1C"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_oPbrsD25", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_oPbrsD25-dm-myo61f/edit"
+                        }, 
+                        "text": "Dm-Myo61F"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_9Zp1woGS", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_9Zp1woGS-hs-cebpa/edit"
+                        }, 
+                        "text": "Hs-CEBPA"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_1Q6jCPc1", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_1Q6jCPc1-dm-slbo/edit"
+                        }, 
+                        "text": "Dm-slbo"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_YOlkmqt3", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_YOlkmqt3-hs-smc1a/edit"
+                        }, 
+                        "text": "Hs-SMC1A"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_oY1QgIBX", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_oY1QgIBX-dm-smc1/edit"
+                        }, 
+                        "text": "Dm-SMC1"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP20000102", 
+      "entryTemplateId": null, 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "GI", 
+          "isMulti": true, 
+          "textValue": "GI", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_szWPMcfq"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-SMC1, Dm-slbo, Dm-Myo61F, Dm-SA, Dm-Pten, Dm-Utx, Dm-brm, Dm-trr", 
+          "isMulti": true, 
+          "textValue": "Dm-SMC1, Dm-slbo, Dm-Myo61F, Dm-SA, Dm-Pten, Dm-Utx, Dm-brm, Dm-trr", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_oY1QgIBX", 
+            "bfi_1Q6jCPc1", 
+            "bfi_oPbrsD25", 
+            "bfi_WilxsskF", 
+            "bfi_q1fv4yAi", 
+            "bfi_u6uWRnhf", 
+            "bfi_y8NwbZlS", 
+            "bfi_YdtwXkXr"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-SMC1A, Hs-CEBPA, Hs-MYO1C, Hs-STAG1, Hs-PTEN, Hs-KDM6A, Hs-SMARCA4, Hs-KMT2D", 
+          "isMulti": true, 
+          "textValue": "Hs-SMC1A, Hs-CEBPA, Hs-MYO1C, Hs-STAG1, Hs-PTEN, Hs-KDM6A, Hs-SMARCA4, Hs-KMT2D", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_YOlkmqt3", 
+            "bfi_9Zp1woGS", 
+            "bfi_tNK9KpE6", 
+            "bfi_SAsQdONV", 
+            "bfi_x2NUY5lM", 
+            "bfi_5FNfUHWY", 
+            "bfi_tlpp6XRr", 
+            "bfi_i1dqVU4w"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "dropdown", 
+          "value": []
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Complete", 
+          "isMulti": false, 
+          "textValue": "Complete", 
+          "type": "dropdown", 
+          "value": "sfso_LIXrW2zg"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat007", 
+          "isMulti": false, 
+          "textValue": "Pat007", 
+          "type": "entity_link", 
+          "value": "bfi_ufcxmKHn"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_uKR9AYsq", 
+      "modifiedAt": "2022-07-29T11:45:11.677892+00:00", 
+      "name": "Pat007_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_uKR9AYsq-pat007_2-variant-selection/edit"
+    }, 
+      {
+      "apiURL": "https://mpt.benchling.com/api/v2/entries/etr_GpNAKk0w", 
+      "archiveRecord": null, 
+      "assignedReviewers": [], 
+      "authors": [
+        {
+          "handle": "deisy", 
+          "id": "ent_vRpaIaoa", 
+          "name": "Deisy"
+        }
+      ], 
+      "createdAt": "2021-10-26T13:38:04.892583+00:00", 
+      "creator": {
+        "handle": "deisy", 
+        "id": "ent_vRpaIaoa", 
+        "name": "Deisy"
+      }, 
+      "customFields": {}, 
+      "days": [
+        {
+          "date": "2021-10-26", 
+          "notes": [
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [
+                {
+                  "id": "ent_8Rmcoydf", 
+                  "type": "user", 
+                  "webURL": "https://mpt.benchling.com/nvillegas/"
+                }
+              ], 
+              "text": "The variant selection was performed by Nahuel Villegas and took five working days. It was performed using variant selection portal version 0.9.4. ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": " ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Full data", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following link contains the variant analysis results: ", 
+              "type": "text"
+            }, 
+            {
+              "externalFileId": "efl_9WaEsfU5", 
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "external_file"
+            }, 
+            {
+              "externalFileId": "efl_C4n7anlr", 
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "external_file"
+            }, 
+            {
+              "externalFileId": "efl_m5M2E44I", 
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "external_file"
+            }, 
+            {
+              "externalFileId": "efl_6jw1tfuL", 
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "external_file"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Selected genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were selected to be modeled into the patient avatar: ", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to down regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_Vwi2Khmc", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Vwi2Khmc-hs-tp53/edit"
+                        }, 
+                        "text": "Hs-TP53"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_Mk3G575p", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_Mk3G575p-dm-p53/edit"
+                        }, 
+                        "text": "Dm-p53"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_9v42z99f", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_9v42z99f-hs-kmt2c/edit"
+                        }, 
+                        "text": "Hs-KMT2C"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_YdtwXkXr", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_YdtwXkXr-dm-trr/edit"
+                        }, 
+                        "text": "Dm-trr"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Confidence", 
+                  "Comments"
+                ], 
+                "name": "Genes to up regulate", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_9tvOArAa", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_9tvOArAa-hs-gnas/edit"
+                        }, 
+                        "text": "Hs-GNAS"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_GgnsJjxC", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_GgnsJjxC-dm-galphas/edit"
+                        }, 
+                        "text": "Dm-galphas"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_GemiXpZI", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_GemiXpZI-hs-ccne1/edit"
+                        }, 
+                        "text": "Hs-CCNE1"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_ubrBhhMb", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_ubrBhhMb-dm-cyce/edit"
+                        }, 
+                        "text": "Dm-CycE"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_CtoDM7Bg", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_CtoDM7Bg-hs-aurka/edit"
+                        }, 
+                        "text": "Hs-AURKA"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_CmK59yEr", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_CmK59yEr-dm-aura/edit"
+                        }, 
+                        "text": "Dm-aurA"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_MTl6jQ6Z", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_MTl6jQ6Z-hs-tshz2/edit"
+                        }, 
+                        "text": "Hs-TSHZ2"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_p0TlZTx7", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_p0TlZTx7-dm-tsh/edit"
+                        }, 
+                        "text": "Dm-tsh"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }, 
+                  {
+                    "cells": [
+                      {
+                        "link": {
+                          "id": "bfi_WBysgobH", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_WBysgobH-hs-tshz3/edit"
+                        }, 
+                        "text": "Hs-TSHZ3"
+                      }, 
+                      {
+                        "link": {
+                          "id": "bfi_p0TlZTx7", 
+                          "type": "custom_entity", 
+                          "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_afxyNojv-registry/bfi_p0TlZTx7-dm-tsh/edit"
+                        }, 
+                        "text": "Dm-tsh"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "Discarded genes to model", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "The following genes were putative genes to be modeled into the avatar, but were finally discarded.", 
+              "type": "text"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "table": {
+                "columnLabels": [
+                  "Hs gene", 
+                  "Dm gene", 
+                  "AF", 
+                  "DEL/DUPL", 
+                  "Comments"
+                ], 
+                "name": "Genes discarded", 
+                "rows": [
+                  {
+                    "cells": [
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": "To be filled"
+                      }, 
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }, 
+              "text": "", 
+              "type": "table"
+            }, 
+            {
+              "indentation": 0, 
+              "links": [], 
+              "text": "", 
+              "type": "text"
+            }
+          ]
+        }
+      ], 
+      "displayId": "EXP21000319", 
+      "entryTemplateId": "tmpl_Wz5S7c7f", 
+      "fields": {
+        "Cancer type": {
+          "displayValue": "GI", 
+          "isMulti": true, 
+          "textValue": "GI", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_szWPMcfq"
+          ]
+        }, 
+        "Dm modeled genes": {
+          "displayValue": "Dm-p53, Dm-trr, Dm-galphas, Dm-CycE, Dm-aurA, Dm-tsh", 
+          "isMulti": true, 
+          "textValue": "Dm-p53, Dm-trr, Dm-galphas, Dm-CycE, Dm-aurA, Dm-tsh", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_Mk3G575p", 
+            "bfi_YdtwXkXr", 
+            "bfi_GgnsJjxC", 
+            "bfi_ubrBhhMb", 
+            "bfi_CmK59yEr", 
+            "bfi_p0TlZTx7"
+          ]
+        }, 
+        "Hs modeled genes": {
+          "displayValue": "Hs-TP53, Hs-KMT2C, Hs-GNAS, Hs-CCNE1, Hs-AURKA, Hs-TSHZ2, Hs-TSHZ3", 
+          "isMulti": true, 
+          "textValue": "Hs-TP53, Hs-KMT2C, Hs-GNAS, Hs-CCNE1, Hs-AURKA, Hs-TSHZ2, Hs-TSHZ3", 
+          "type": "entity_link", 
+          "value": [
+            "bfi_Vwi2Khmc", 
+            "bfi_9v42z99f", 
+            "bfi_9tvOArAa", 
+            "bfi_GemiXpZI", 
+            "bfi_CtoDM7Bg", 
+            "bfi_MTl6jQ6Z", 
+            "bfi_WBysgobH"
+          ]
+        }, 
+        "Portal version used": {
+          "displayValue": "v0.9.4", 
+          "isMulti": true, 
+          "textValue": "v0.9.4", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_NtVuJOlb"
+          ]
+        }, 
+        "Project": {
+          "displayValue": "Patient PDP", 
+          "isMulti": true, 
+          "textValue": "Patient PDP", 
+          "type": "dropdown", 
+          "value": [
+            "sfso_unEvdAnR"
+          ]
+        }, 
+        "Status": {
+          "displayValue": "Ongoing", 
+          "isMulti": false, 
+          "textValue": "Ongoing", 
+          "type": "dropdown", 
+          "value": "sfso_IhyJ4yoI"
+        }, 
+        "TuMatch#": {
+          "displayValue": null, 
+          "isMulti": false, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": null
+        }, 
+        "a. Patient ID": {
+          "displayValue": "Pat027", 
+          "isMulti": false, 
+          "textValue": "Pat027", 
+          "type": "entity_link", 
+          "value": "bfi_n0LnLzXV"
+        }, 
+        "b. Eureka Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "c. Innovative UK Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "d. Academic Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "e. Pharma Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }, 
+        "f. R&D Avatar ID": {
+          "displayValue": null, 
+          "isMulti": true, 
+          "textValue": null, 
+          "type": "entity_link", 
+          "value": []
+        }
+      }, 
+      "folderId": "lib_DxzPSxy2", 
+      "id": "etr_GpNAKk0w", 
+      "modifiedAt": "2022-07-29T11:33:09.034483+00:00", 
+      "name": "Pat027_2 Variant Selection", 
+      "reviewRecord": null, 
+      "schema": {
+        "id": "ts_MvqmOP8m", 
+        "name": "2_Variant Selection"
+      }, 
+      "webURL": "https://mpt.benchling.com/mypersonaltx/f/lib_DxzPSxy2-lab-book/etr_GpNAKk0w-pat027_2-variant-selection/edit"
+    }
+  ], 
+  "nextToken": "W3siX19iZW5jaGxpbmdUeXBlIjogImRhdGV0aW1lIiwgInZhbHVlIjogIjIwMjItMDctMjlUMTE6MTI6NDUuNDE4NTY3In0sICJldHJfMmU3WTJpdnQiXQ=="
+}
+
+
