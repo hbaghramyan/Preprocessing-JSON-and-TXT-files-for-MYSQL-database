@@ -102,12 +102,6 @@ print("\nChecking if 'cnv_processed.txt' has empty strings in it.")
 print(np.where(cnv.applymap(lambda x: x == '')))
 print("It seems there is no such patient.")
 
-print("\nChecking if there is a patient with non NaN in any row.")
-nonNaNpatients = cnv.dropna().Patient_ID.unique()
-print("Patient(s) with no NaN in any row:", np.ravel(nonNaNpatients))
-print(f"It seems the only {np.ravel(nonNaNpatients)} has rows of data with no missing values (NaNs). "
-      f"We will check this in MySQL too.")
-
 # Inserting cnv as a table into patients_db.
 cnv.to_sql("cnv", engine, index=True, if_exists='replace');
 
@@ -120,17 +114,13 @@ tables = cursor.fetchall()
 
 print("\nQUESTION (a): Number of patients in Benchling with information for genes to up/down regulate.")
 
-count = 0
+print("ANSWER (a): Patients")
 for table in tables[1:]:
-    for colname in [["genes to up regulate", "GUR"], ["genes to down regulate", "GDR"]]:
-        cursor.execute(f"SELECT {colname[1]} FROM {table[0]} WHERE {colname[1]} IS NOT NULL")
-        rows = cursor.fetchall()
-        if len(rows) == 0:
-            count += 1
-            print(f'Patient "{table[0]}" has no data for {colname[0]}.')
-print(f'ANSWER (a): Only {len(tables[1:]) - count} patients have data for genes to up/down regulate.')
-
-print("\n QUESTION (b): Number of patients with information for copy number variation.")
+    cursor.execute(f"SELECT * FROM {table[0]} WHERE GDR IS NOT NULL AND GUR IS NOT NULL;")
+    rows = cursor.fetchall()
+    if len(rows) != 0:
+        print(table[0].capitalize(), sep = '')
+print("have data both for genes to up regulate and genes to down regulate")
 
 cursor.execute(f"SELECT DISTINCT Patient_ID FROM cnv;")
 rows = cursor.fetchall();
