@@ -114,16 +114,43 @@ tables = cursor.fetchall()
 
 print("\nQUESTION (a): Number of patients in Benchling with information for genes to up/down regulate.")
 
-print("ANSWER (a): Patients")
-for table in tables[1:]:
+print("ANSWER (a): Patients") # we will also create a dataframe with patient names with information in Benchling and
+# insert a table "pat_name_bench" from that dataframe into patients_db
+nonnullpat_bench = [] # a list for patient names with information in Benchling
+for table in tables[1:]: # looping over all tables except cnv
     cursor.execute(f"SELECT * FROM {table[0]} WHERE GDR IS NOT NULL AND GUR IS NOT NULL;")
     rows = cursor.fetchall()
     if len(rows) != 0:
-        print(table[0].capitalize(), sep = '')
-print("have data both for genes to up regulate and genes to down regulate")
+        nnpat =  table[0].capitalize()
+        print(nnpat, sep = '')
+        nonnullpat_bench.append(nnpat)
+print("have data both for genes to up regulate and genes to down regulate.")
 
+df_patname_bench = pd.DataFrame.from_dict(dict(zip(range(len(nonnullpat_bench)), nonnullpat_bench)), orient='index',
+                                          columns = ["pat_name"])
+df_patname_bench.to_sql("pat_name_bench", engine, index = True, if_exists = 'replace');
+
+print("\nQUESTION (b): Number of patients with information for copy number variation.")
+# we will also create a dataframe with patient names with information in cnv and
+# insert a table "pat_name_cnv" from that dataframe into the database patients_db
+nonnullpat_cnv = []
 cursor.execute(f"SELECT DISTINCT Patient_ID FROM cnv;")
 rows = cursor.fetchall();
 print("Printing all patients in 'cnv_processed.txt':")
 for patname in rows:
     print(patname[0])
+    nonnullpat_cnv.append(patname[0])
+
+df_patname_cnv = pd.DataFrame.from_dict(dict(zip(range(len(nonnullpat_cnv)), nonnullpat_cnv)), orient='index',
+                                          columns = ["pat_name"])
+df_patname_cnv.to_sql("pat_name_cnv", engine, index = True, if_exists = 'replace')
+
+print("\nQuestion (c): Identify which patients have both information.")
+# For this we would compare "pat_name" columns in "pat_name_cnv" and "pat_name_bench" tables
+cn = mysql.connector.connect(user = uname, password = pwd, host = hostname, database = 'patients_db')
+cursor = cn.cursor()
+cursor.execute("Show tables")
+tables = cursor.fetchall()
+cursor.execute("SELECT pat_name_bench.pat_name as pat_name_bench, pat_name_cnv.pat_name as pat_name_cnv FROM pat_name_bench, pat_name_cnv WHERE pat_name_bench.pat_name = pat_name_cnv.pat_name;")
+rows = cursor.fetchall()
+print(rows[0][0], rows[1][0])
