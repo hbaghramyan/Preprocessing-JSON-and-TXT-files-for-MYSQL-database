@@ -4,7 +4,12 @@ I used *json* package to import json files into python as native dictionaries. T
 
 ### Preprocessing the TXT (tabulated) file:
 
-I did it using pandas.read_csv.
+I did it using pandas.read_csv.  
+
+#### Notes on the content of **patients_db** and relations of its tables.
+
+**patients_db** contains 10 tables for each patient, 1 table **cnv** for copy number variation, 1 table **pat_name_bench** that contains patient names in bench JSON file, 1 table **pat_name_cnv** that contains patient names in copy number variation, and **pat027_genes** and **pat007_genes** tables with Hs genes. 
+**pat_name_bench** and **pat_name_cnv** are related with the column **pat_name**. Also, **genes** column in **pat027_genes** and **pat007_genes** is related to **symbol** column in **cnv**. 
 
 #### QUESTION (a): Number of patients in Benchling with information for genes to up/down regulate.
 ANSWER (a): Patients
