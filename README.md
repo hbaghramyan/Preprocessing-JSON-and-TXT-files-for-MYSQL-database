@@ -6,8 +6,47 @@ I used *json* package to import json files into python as native dictionaries. T
 
 I did it using pandas.read_csv.
 
-##### QUESTION (a): Number of patients in Benchling with information for genes to up/down regulate.
-##### Patient "pat012" has no data for genes to up regulate.
-##### ANSWER (a): Only 9 patients have data for genes to up/down regulate.
+#### QUESTION (a): Number of patients in Benchling with information for genes to up/down regulate.
+ANSWER (a): Patients
+Pat002
+Pat004
+Pat007
+Pat009
+Pat027
+Pat032
+Pat044
+Pat046
+Pat057
+have data both for genes to up regulate and genes to down regulate.
+The total number of patients in Benchling with information for genes to up/down regulate is 9.
+
+#### QUESTION (b): Number of patients with information for copy number variation.
+There are 2 patients with information for copy number variation.
+ Those patients are:
+Pat027
+Pat007
+
+#### Question (c): Identify which patients have both information.
+Pat007 Pat007
+
+#### Question (d): For each patient found in “c” list the genes present in Benchling and having a copy number variation found with the tool “pipeline_name: sequenza_vivan”.
+For patient Pat007 those genes are:
+STAG1
+PTEN
+KMT2D
+MYO1C
+SMARCA4
+CEBPA
+SMC1A
+KDM6A
+For patient Pat027 those genes are:
+KMT2C
+TP53
+CCNE1
+TSHZ3
+TSHZ2
+AURKA
+GNAS
+
 
 
